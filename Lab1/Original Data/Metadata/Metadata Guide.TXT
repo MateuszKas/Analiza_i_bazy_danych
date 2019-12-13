@@ -1,0 +1,1 @@
+Data on tuberculosis in various patient groups (the table simultaneously codes information about age and sex in columns and contains a lot of empty spaces
