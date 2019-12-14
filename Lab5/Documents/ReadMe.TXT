@@ -1,0 +1,1 @@
+1. Run script "Kod_v2" in catalog C:\Users\Mateusz\Desktop\AiCD\public_lectures-master\Analiza i Bazy Danych\TIER Protocol Documentation\Command Files
