@@ -1,5 +1,0 @@
-iso2 - name of country
-year - year of born
-cases - 0.0 or 1.0
-sex - female(f) or male(m)
-age - age range
